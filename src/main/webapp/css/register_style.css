@@ -1,0 +1,24 @@
+@charset "ISO-8859-1";
+/*p {
+  font-style: normal;
+  font-size: 50px;
+  font-family: georgia;
+  text-align: center;
+  padding-top: 63px;
+  padding-bottom: 230px;
+  margin-top: 0;
+  margin-bottom: 0;
+}*/
+
+.hr3 {
+  color: green;
+}
+
+.hr4 {
+  color: blue;
+}
+
+.hr5 {
+  color: green;
+  font-size: 80px;
+}
